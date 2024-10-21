@@ -11,7 +11,7 @@
     "require": {
         "typo3/cms-core": "^11",
         "fluidtypo3/vhs": "^6",
-        "slub/dm-norm": "@dev",
+        "slub/dm-ad": "@dev",
         "illuminate/collections": "^8"
     },
     "config": {
@@ -38,7 +38,7 @@
         ]
     },
     "repositories": {
-        "dmnorm": "https://github.com/dikastes/dmont"
+        "dmad": "https://github.com/dikastes/dmad"
     },
     "replace": {
         "slub/dmont": "self.version",
