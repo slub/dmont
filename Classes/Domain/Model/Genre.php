@@ -1,7 +1,7 @@
 <?php
-namespace SLUB\DmOnt\Domain\Model;
+namespace Slub\DmOnt\Domain\Model;
 
-use \SLUB\DmOnt\Domain\Repository\GenreRepository;
+use \Slub\DmOnt\Domain\Repository\GenreRepository;
 use \Illuminate\Support\Collection;
 
 /***

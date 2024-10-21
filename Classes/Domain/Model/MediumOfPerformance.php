@@ -1,9 +1,9 @@
 <?php
-namespace SLUB\DmOnt\Domain\Model;
+namespace Slub\DmOnt\Domain\Model;
 
 use \Illuminate\Support\Collection;
-use \SLUB\DmOnt\Domain\Model\Instrument;
-use \SLUB\DmOnt\Domain\Model\Genre;
+use \Slub\DmOnt\Domain\Model\Instrument;
+use \Slub\DmOnt\Domain\Model\Genre;
 
 /***
  *

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:publisher_db/Resources/Private/Language/locallang_csh" date="2022-12-19T13:20:31Z" product-name="publisher_db">
+		<header/>
+		<body>
+			<trans-unit id="has_orchestra.description" resname="has_orchestra.description">
+				<source>hasOrchestra</source>
+			</trans-unit>
+			<trans-unit id="has_choir.description" resname="has_choir.description">
+				<source>hasChoir</source>
+			</trans-unit>
+			<trans-unit id="instrumental_soloists.description" resname="instrumental_soloists.description">
+				<source>instrumentalSoloists</source>
+			</trans-unit>
+			<trans-unit id="vocal_soloists.description" resname="vocal_soloists.description">
+				<source>vocalSoloists</source>
+			</trans-unit>
+			<trans-unit id="instrument.description" resname="instrument.description">
+				<source>instrument</source>
+			</trans-unit>
+			<trans-unit id="name.description" resname="name.description">
+				<source>name</source>
+			</trans-unit>
+			<trans-unit id="shorthand.description" resname="shorthand.description">
+				<source>shorthand</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

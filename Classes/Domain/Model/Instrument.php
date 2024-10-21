@@ -1,5 +1,5 @@
 <?php
-namespace SLUB\DmOnt\Domain\Model;
+namespace Slub\DmOnt\Domain\Model;
 
 
 /***

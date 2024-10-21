@@ -1,11 +1,11 @@
 <?php
-namespace SLUB\DmOnt\Controller;
+namespace Slub\DmOnt\Controller;
 
 use \Illuminate\Support\Collection;
-use \SLUB\DmOnt\Domain\Model\Genre;
-use \SLUB\DmNorm\Domain\Model\Work;
-use \SLUB\DmNorm\GndIdNotFoundException;
-use \SLUB\DmOnt\Lib\MvdbTerms;
+use \Slub\DmOnt\Domain\Model\Genre;
+use \Slub\DmNorm\Domain\Model\Work;
+use \Slub\DmNorm\GndIdNotFoundException;
+use \Slub\DmOnt\Lib\MvdbTerms;
 
 /***
  *

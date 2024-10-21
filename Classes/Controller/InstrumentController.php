@@ -1,9 +1,9 @@
 <?php
-namespace SLUB\PublisherDb\Controller;
+namespace Slub\PublisherDb\Controller;
 
-use SLUB\PublisherDb\Domain\Model\MvdbInstrument;
-use SLUB\PublisherDb\Lib\MvdbTerms;
-use SLUB\PublisherDb\Lib\DbArray;
+use Slub\PublisherDb\Domain\Model\MvdbInstrument;
+use Slub\PublisherDb\Lib\MvdbTerms;
+use Slub\PublisherDb\Lib\DbArray;
 use TYPO3\CMS\Core\Utility\GeneralUtility;
 
 /***

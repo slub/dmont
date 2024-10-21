@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:publisher_db/Resources/Private/Language/locallang_csh" date="2022-12-19T13:20:31Z" product-name="publisher_db">
+		<header/>
+		<body>
+			<trans-unit id="name.description" resname="name.description">
+				<source>name</source>
+			</trans-unit>
+			<trans-unit id="gnd_id.description" resname="gnd_id.description">
+				<source>gndId</source>
+			</trans-unit>
+			<trans-unit id="shorthand.description" resname="shorthand.description">
+				<source>shorthand</source>
+			</trans-unit>
+			<trans-unit id="base_level.description" resname="base_level.description">
+				<source>baseLevel</source>
+			</trans-unit>
+			<trans-unit id="root.description" resname="root.description">
+				<source>root</source>
+			</trans-unit>
+			<trans-unit id="mapped_ids.description" resname="mapped_ids.description">
+				<source>mappedIds</source>
+			</trans-unit>
+			<trans-unit id="linked.description" resname="linked.description">
+				<source>linked</source>
+			</trans-unit>
+			<trans-unit id="ensemble.description" resname="ensemble.description">
+				<source>ensemble</source>
+			</trans-unit>
+			<trans-unit id="voice.description" resname="voice.description">
+				<source>voice</source>
+			</trans-unit>
+			<trans-unit id="ignore_in_name.description" resname="ignore_in_name.description">
+				<source>ignoreInName</source>
+			</trans-unit>
+			<trans-unit id="super_instrument.description" resname="super_instrument.description">
+				<source>superInstrument</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
