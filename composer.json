@@ -11,7 +11,7 @@
     "require": {
         "typo3/cms-core": "^11",
         "fluidtypo3/vhs": "^6",
-        "slub/dm-ad": "@dev",
+        "slub/dm-ad": "^0.0.1",
         "illuminate/collections": "^8"
     },
     "config": {
